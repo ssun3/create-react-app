@@ -241,6 +241,7 @@ module.exports = function(
   console.log(
     '    and scripts into the app directory. If you do this, you can’t go back!'
   );
+  console.log('HELLOOO!!');
   console.log();
   console.log('We suggest that you begin by typing:');
   console.log();
